@@ -1,7 +1,7 @@
 # my-articles
 List of articles I wrote on various sites
 
-## SitePoint
+## SitePoint - [Author Profile](https://www.sitepoint.com/author/pmodi/)
 
 - [N + 1: When More Queries is a Good Thing](https://www.sitepoint.com/n-1-when-more-queries-is-a-good-thing/)
 - [Do the Right Thing and Document Your Rails API with Swagger](https://www.sitepoint.com/do-the-right-thing-and-document-your-rails-api-with-swagger/)
