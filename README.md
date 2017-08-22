@@ -15,4 +15,5 @@ List of articles I wrote on various sites
 
 - [Writing Efficient Queries](https://blog.codeship.com/writing-efficient-queries/)
 - [Modeling has_many Relationships with DynamoDB](https://blog.codeship.com/modeling-has_many-relationships-with-dynamodb/)
-- [Working with DynamoDB](https://blog.codeship.com/working-with-dynamodb/)
+- [Working with DynamoDB - Part 1](https://blog.codeship.com/working-with-dynamodb/)
+- [Query and Pagination with DynamoDB - Part 2](https://blog.codeship.com/querying-and-pagination-with-dynamodb/)
